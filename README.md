@@ -1,4 +1,4 @@
-# Back-to-Deathpoint
+# Back to Deathpoint
 <img src="http://i.imgur.com/U8zpqGz.png" width="120">
 
 ## Official Steam Workshop page
