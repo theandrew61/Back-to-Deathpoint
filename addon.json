@@ -1,0 +1,9 @@
+{
+	"title": "Back to Deathpoint (BTDP)",
+	"type": "ServerContent",
+	"tags": ["fun", "roleplay"],
+	"ignore": [
+		"*.png",
+		"*.DS_Store"
+	]
+}
